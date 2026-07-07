@@ -1,0 +1,6 @@
+{
+  "name": "PortfolioX",
+  "description": "A feature-rich, beautiful, and responsive portfolio builder and website generator powered by Gemini AI. Export to PDF/Images, choose from 100+ templates, and auto-generate content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
